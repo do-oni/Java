@@ -11,8 +11,10 @@
 
 <!--Stats Card  -->
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=do-oni)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- Theme version -->
+<!-- Theme version - orange -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=do-oni&show_icons=true&theme=gruvbox)
+<!-- Theme version - orange 2 -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=do-oni&show_icons=true&theme=synthwave)
 
 <!-- 뱃지 만들기 -->
 <!-- <img src="https://img.shields.io/badge/기술이름-#제외색상번호?style=for-the-badge&logo=아이콘이름&logoColor=white"> -->
