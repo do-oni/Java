@@ -1,6 +1,7 @@
-📌 _do-oni_ <img src="https://img.shields.io/badge/dooni-F1E8AE?style=for-the-badge&logo=GitHub&logoColor=black">
+📌 _do-oni_ 
 ============
 
+# <img src="https://img.shields.io/badge/dooni-F1E8AE?style=for-the-badge&logo=GitHub&logoColor=black">
 
 <!-- <img src="https://user-images.githubusercontent.com/84673603/139332613-9bca552c-3d3b-48e2-98f3-c3f1f1cf00ca.jpeg" width="500px" height="400px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/> -->
 
