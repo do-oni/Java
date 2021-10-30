@@ -9,6 +9,8 @@
 <!-- trophy -->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=do-oni)](https://github.com/ryo-ma/github-profile-trophy) -->
 
+<!-- Top languages -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=do-oni&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- <img src="https://user-images.githubusercontent.com/84673603/139332613-9bca552c-3d3b-48e2-98f3-c3f1f1cf00ca.jpeg" width="500px" height="400px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/> -->
 
@@ -22,7 +24,7 @@
 <!--Stats Card  -->
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=do-oni)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- Theme version - orange -->
-## ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=do-oni&show_icons=true&theme=gruvbox)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=do-oni&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=do-oni&show_icons=true&theme=gruvbox)  
 
 <!-- Theme version - orange 2 -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=do-oni&show_icons=true&theme=onedark) -->
@@ -50,3 +52,4 @@
 <!--  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=do-oni&theme=great-gatsby&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) -->
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=do-oni&theme=flag-india&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=do-oni&theme=earth&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
