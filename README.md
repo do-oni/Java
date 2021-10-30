@@ -3,6 +3,13 @@
 
 # <img src="https://img.shields.io/badge/dooni-F1E8AE?style=for-the-badge&logo=GitHub&logoColor=black">
 
+<!-- Activity graph -->
+<!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=do-oni&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+
+<!-- trophy -->
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=do-oni)](https://github.com/ryo-ma/github-profile-trophy) -->
+
+
 <!-- <img src="https://user-images.githubusercontent.com/84673603/139332613-9bca552c-3d3b-48e2-98f3-c3f1f1cf00ca.jpeg" width="500px" height="400px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/> -->
 
 
@@ -38,5 +45,8 @@
 
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
  -->
-
-
+ 
+<!-- contribute streak -->
+<!--  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=do-oni&theme=great-gatsby&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) -->
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=do-oni&theme=flag-india&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=do-oni&theme=earth&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
