@@ -1,7 +1,7 @@
-📌 _do-oni_ 
+📌 <img src="https://img.shields.io/badge/dooni-F1E8AE?style=for-the-badge&logo=GitHub&logoColor=black">
 ============
 
-# <img src="https://img.shields.io/badge/dooni-F1E8AE?style=for-the-badge&logo=GitHub&logoColor=black">
+<!-- # <img src="https://img.shields.io/badge/dooni-F1E8AE?style=for-the-badge&logo=GitHub&logoColor=black"> -->
 
 <!-- Activity graph -->
 <!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=do-oni&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
