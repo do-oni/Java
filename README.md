@@ -1,4 +1,4 @@
-📌 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Indie+Flower&color=%23C5B880&size=30&multiline=true&width=180&lines=Hi!+I'm+do-oni)](https://git.io/typing-svg)
+<!-- 📌 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Indie+Flower&color=%23C5B880&size=30&multiline=true&width=180&lines=Hi!+I'm+do-oni)](https://git.io/typing-svg)
   <img src="https://img.shields.io/badge/dooni-F1E8AE?style=for-the-badge&logo=GitHub&logoColor=black">
 ============
 
